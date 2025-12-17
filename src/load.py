@@ -3,7 +3,6 @@ from pathlib import Path
 
 def load_data(path: str) -> pd.DataFrame:
 
-
     path = Path(path)
 
     if not path.exists():

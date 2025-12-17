@@ -5,56 +5,60 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.drop_duplicates()
 
+    df = df.dropna(subset=["tpep_pickup_datetime", "tpep_dropoff_datetime", "store_and_fwd_flag", "payment_type", "RatecodeID", "PULocationID", "DOLocationID", "trip_distance", "total_amount", "mta_tax", "fare_amount", "passenger_count"])
 
     df["tpep_pickup_datetime"] = pd.to_datetime(
-        df["tpep_pickup_datetime"], errors="coerce"
+        df["tpep_pickup_datetime"], 
+        errors="coerce"
     )
 
     df["tpep_dropoff_datetime"] = pd.to_datetime(
-        df["tpep_dropoff_datetime"], errors="coerce"
+        df["tpep_dropoff_datetime"], 
+        errors="coerce"
     )
 
-    df = df[df["tpep_dropoff_datetime"] > df["tpep_pickup_datetime"]]
+    df["passenger_count"] = pd.to_numeric(
+        df["passenger_count"],
+        errors="coerce",
+        downcast="integer"
+    )
 
-    df = df.dropna(subset=["VendorID", "tpep_pickup_datetime", "tpep_dropoff_datetime"])
+    df["trip_distance"] = pd.to_numeric(
+        df["trip_distance"],
+        errors="coerce"
+    )
+
+    df["RatecodeID"] = pd.to_numeric(
+        df["RatecodeID"],
+        errors="coerce"
+    )
 
 
-    df = df[df["passenger_count"].notna()]
-    df = df[df["passenger_count"] > 0]
+    df["PULocationID"] = pd.to_numeric(
+        df["PULocationID"],
+        errors="coerce"
+    )
 
-    df = df[df["trip_distance"].notna()]
-    df = df[df["trip_distance"] >= 0]
+    df["DOLocationID"] = pd.to_numeric(
+        df["DOLocationID"],
+        errors="coerce"
+    )
 
-    df = df[df["RatecodeID"].notna()]
+    df["fare_amount"] = pd.to_numeric(
+        df["fare_amount"],
+        errors="coerce"
+    )
 
-    df = df[df["store_and_fwd_flag"].notna()]
 
-    df = df[df["PULocationID"].notna()]
+    df["mta_tax"] = pd.to_numeric(
+        df["mta_tax"],
+        errors="coerce"
+    )
 
-    df = df[df["DOLocationID"].notna()]
 
-    df = df[df["payment_type"].notna()]
-
-    df = df[df["fare_amount"].notna()]
-    df = df[df["fare_amount"] >= 0]
-
-    df = df[df["extra"] >= 0]
-
-    df = df[df["mta_tax"] >= 0]
-
-    df = df[df["tip_amount"] >= 0]
-
-    df = df[df["tolls_amount"] >= 0]
-
-    df = df[df["improvement_surcharge"] >= 0]
-
-    df = df[df["total_amount"].notna()]
-    df = df[df["total_amount"] >= 0]
-
-    df = df[df["congestion_surcharge"] >= 0]
-
-    df = df[df["Airport_fee"] >= 0]
-
-    df = df[df["cbd_congestion_fee"] >= 0]
+    df["total_amount"] = pd.to_numeric(
+        df["total_amount"], 
+        errors="coerce"
+    )
 
     return df.reset_index(drop=True)

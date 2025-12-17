@@ -5,7 +5,9 @@ def get_last_locations(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.groupby("PULocationID").agg(ultimo_timestamp=("tpep_pickup_datetime", "max")).reset_index()
 
-    return df.rename(columns={"PULocationID":"vehicle_id"})
+    df = df.rename(columns={"PULocationID":"vehicle_id"})
+
+    return df
 
 
 

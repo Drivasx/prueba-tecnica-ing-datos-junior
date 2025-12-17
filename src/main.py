@@ -1,6 +1,7 @@
 from pathlib import Path
 from load import load_data
 from clean import clean_data
+from validate import validate_data
 from transform import get_last_locations, get_trips_per_hour
 from export import export_file
 
@@ -13,11 +14,14 @@ def main():
     exports_path = BASE_DIR / "data" / "processed"
 
     df = load_data(data_path)
+    print(df.columns)
 
     cleaned_df = clean_data(df)
 
-    last_locations = get_last_locations(cleaned_df)
-    trips_per_hour = get_trips_per_hour(cleaned_df)
+    validated_df = validate_data(cleaned_df)
+
+    last_locations = get_last_locations(validated_df)
+    trips_per_hour = get_trips_per_hour(validated_df)
     
     export_file(last_locations, exports_path / "ultima_ubicacion.csv")
 
