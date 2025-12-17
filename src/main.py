@@ -14,7 +14,6 @@ def main():
     exports_path = BASE_DIR / "data" / "processed"
 
     df = load_data(data_path)
-    print(df.columns)
 
     cleaned_df = clean_data(df)
 
