@@ -19,8 +19,10 @@ def main():
 
     validated_df = validate_data(cleaned_df)
 
-    last_locations = get_last_locations(validated_df)
-    trips_per_hour = get_trips_per_hour(validated_df)
+    input_day = int(input("Ingrese el dia del cual desea obtener la información: "))
+
+    last_locations = get_last_locations(validated_df, input_day)
+    trips_per_hour = get_trips_per_hour(validated_df, input_day)
     
     export_file(last_locations, exports_path / "ultima_ubicacion.csv")
 
