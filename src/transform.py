@@ -7,9 +7,7 @@ def get_last_locations(df: pd.DataFrame, day: int) -> pd.DataFrame:
     
     df = df.copy()
 
-    df["day"] = df["tpep_pickup_datetime"].dt.day
-
-    df = df[df["day"] == day]
+    df = df[df["tpep_pickup_datetime"].dt.day == day]
 
     df = df.groupby("PULocationID").agg(ultimo_timestamp=("tpep_pickup_datetime", "max")).reset_index()
 
@@ -26,9 +24,7 @@ def get_trips_per_hour(df: pd.DataFrame, day: int) -> pd.DataFrame:
     
     df = df.copy()
 
-    df["day"] = df["tpep_pickup_datetime"].dt.day
-
-    df = df[df["day"] == day]
+    df = df[df["tpep_pickup_datetime"].dt.day == day]
 
     df["hora_del_dia"] = df["tpep_pickup_datetime"].dt.hour
 

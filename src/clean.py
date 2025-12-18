@@ -25,40 +25,44 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 
     df["trip_distance"] = pd.to_numeric(
         df["trip_distance"],
-        errors="coerce"
+        errors="coerce",
+        downcast="float"
     )
 
     df["RatecodeID"] = pd.to_numeric(
         df["RatecodeID"],
-        errors="coerce"
+        errors="coerce",
     )
 
 
     df["PULocationID"] = pd.to_numeric(
         df["PULocationID"],
-        errors="coerce"
+        errors="coerce",
     )
 
     df["DOLocationID"] = pd.to_numeric(
         df["DOLocationID"],
-        errors="coerce"
+        errors="coerce",
     )
 
     df["fare_amount"] = pd.to_numeric(
         df["fare_amount"],
-        errors="coerce"
+        errors="coerce",
+        downcast="float"
     )
 
 
     df["mta_tax"] = pd.to_numeric(
         df["mta_tax"],
-        errors="coerce"
+        errors="coerce",
+        downcast="float"
     )
 
 
     df["total_amount"] = pd.to_numeric(
         df["total_amount"], 
-        errors="coerce"
+        errors="coerce",
+        downcast="float"
     )
 
     return df.reset_index(drop=True)
