@@ -1,5 +1,5 @@
 from pathlib import Path
-from load import load_data
+from load import load_data, load_taxi_zone_lookups
 from clean import clean_data
 from validate import validate_data
 from transform import get_last_locations, get_trips_per_hour
@@ -10,10 +10,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 def main():
 
     data_path = BASE_DIR / "data" / "raw" / "yellow_tripdata_2025-01.parquet"
+    aux_csv_path = BASE_DIR / "data" / "raw" / "taxi_zone_lookup.csv"
 
     exports_path = BASE_DIR / "data" / "processed"
 
     df = load_data(data_path)
+    df_zones = load_taxi_zone_lookups(aux_csv_path)
 
     cleaned_df = clean_data(df)
 
@@ -21,7 +23,7 @@ def main():
 
     input_day = int(input("Ingrese el dia del cual desea obtener la información: "))
 
-    last_locations = get_last_locations(validated_df, input_day)
+    last_locations = get_last_locations(validated_df, df_zones, input_day)
     trips_per_hour = get_trips_per_hour(validated_df, input_day)
     
     export_file(last_locations, exports_path / "ultima_ubicacion.csv")

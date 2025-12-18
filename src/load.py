@@ -25,3 +25,12 @@ def load_data(path: str) -> pd.DataFrame:
         raise FileNotFoundError(f"Archivo no encontrado: {path}")
     
     return pd.read_parquet(path, columns=columns)
+
+
+def load_taxi_zone_lookups(path: str | Path) -> pd.DataFrame:
+    path = Path(path)
+
+    if not path.exists():
+        raise FileNotFoundError(f"Archivo no encontrado: {path}")
+    
+    return pd.read_csv(path)

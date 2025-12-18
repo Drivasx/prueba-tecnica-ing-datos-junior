@@ -19,4 +19,7 @@ def validate_data(df : pd.DataFrame) -> pd.DataFrame:
 
     df = df[df["payment_type"].isin([0,1,2,3,4,5,6])]
 
+    df = df[df["mta_tax"].isin([0,0.5])]
+
+
     return df.reset_index(drop=True)

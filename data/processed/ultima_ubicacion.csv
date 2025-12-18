@@ -1,229 +1,225 @@
-vehicle_id,ultimo_timestamp
-1,2025-01-23 23:18:54
-3,2025-01-23 21:11:23
-4,2025-01-23 23:57:35
-6,2025-01-23 15:30:09
-7,2025-01-23 23:50:08
-8,2025-01-23 19:19:58
-10,2025-01-23 23:49:15
-11,2025-01-23 17:34:11
-12,2025-01-23 22:48:02
-13,2025-01-23 23:57:33
-14,2025-01-23 16:58:56
-15,2025-01-23 11:00:32
-16,2025-01-23 13:35:22
-17,2025-01-23 23:11:51
-18,2025-01-23 15:41:38
-19,2025-01-23 20:02:46
-20,2025-01-23 16:11:35
-21,2025-01-23 15:17:40
-22,2025-01-23 20:23:39
-24,2025-01-23 23:56:07
-25,2025-01-23 19:29:36
-26,2025-01-23 18:52:32
-28,2025-01-23 17:03:57
-29,2025-01-23 15:28:30
-32,2025-01-23 15:13:54
-33,2025-01-23 22:17:03
-35,2025-01-23 17:07:41
-36,2025-01-23 17:30:11
-37,2025-01-23 19:30:43
-38,2025-01-23 15:03:54
-39,2025-01-23 19:50:58
-40,2025-01-23 22:26:52
-41,2025-01-23 23:56:59
-42,2025-01-23 22:49:46
-43,2025-01-23 23:55:01
-45,2025-01-23 23:56:57
-47,2025-01-23 15:23:41
-48,2025-01-23 23:58:08
-49,2025-01-23 21:51:12
-50,2025-01-23 23:59:59
-51,2025-01-23 17:13:16
-52,2025-01-23 21:32:44
-53,2025-01-23 10:08:30
-54,2025-01-23 10:57:00
-55,2025-01-23 18:34:20
-56,2025-01-23 14:44:40
-58,2025-01-23 05:10:28
-60,2025-01-23 12:31:13
-61,2025-01-23 20:09:35
-62,2025-01-23 17:41:40
-63,2025-01-23 18:52:32
-64,2025-01-23 06:14:26
-65,2025-01-23 22:41:20
-66,2025-01-23 22:20:11
-67,2025-01-23 14:19:45
-68,2025-01-23 23:58:43
-69,2025-01-23 22:47:46
-70,2025-01-23 23:58:36
-71,2025-01-23 18:02:52
-72,2025-01-23 19:38:47
-73,2025-01-23 17:55:29
-74,2025-01-23 23:56:49
-75,2025-01-23 23:53:44
-76,2025-01-23 19:26:23
-77,2025-01-23 11:48:06
-78,2025-01-23 15:43:41
-79,2025-01-23 23:59:58
-80,2025-01-23 23:36:11
-81,2025-01-23 15:31:33
-82,2025-01-23 18:23:27
-83,2025-01-23 19:38:09
-85,2025-01-23 14:46:59
-86,2025-01-23 15:47:45
-87,2025-01-23 23:55:50
-88,2025-01-23 23:49:04
-89,2025-01-23 16:20:59
-90,2025-01-23 23:58:43
-91,2025-01-23 16:49:15
-92,2025-01-23 23:51:33
-93,2025-01-23 22:47:16
-94,2025-01-23 08:02:04
-95,2025-01-23 22:44:26
-97,2025-01-23 22:13:15
-98,2025-01-23 14:55:28
-100,2025-01-23 23:59:40
-101,2025-01-23 18:29:33
-102,2025-01-23 11:05:48
-106,2025-01-23 22:21:34
-107,2025-01-23 23:58:32
-108,2025-01-23 12:56:36
-112,2025-01-23 16:18:56
-113,2025-01-23 23:58:06
-114,2025-01-23 23:59:23
-116,2025-01-23 23:25:18
-117,2025-01-23 17:31:56
-119,2025-01-23 20:06:47
-120,2025-01-23 08:01:51
-121,2025-01-23 16:50:16
-122,2025-01-23 11:20:01
-123,2025-01-23 17:35:45
-124,2025-01-23 10:40:02
-125,2025-01-23 23:45:45
-126,2025-01-23 17:36:41
-127,2025-01-23 14:42:39
-128,2025-01-23 14:02:56
-129,2025-01-23 23:37:38
-130,2025-01-23 23:50:16
-131,2025-01-23 14:13:27
-132,2025-01-23 23:59:31
-133,2025-01-23 19:42:04
-134,2025-01-23 22:14:28
-135,2025-01-23 15:11:06
-136,2025-01-23 15:49:42
-137,2025-01-23 23:59:09
-138,2025-01-23 23:59:40
-139,2025-01-23 16:00:25
-140,2025-01-23 23:58:24
-141,2025-01-23 23:57:43
-142,2025-01-23 23:59:30
-143,2025-01-23 23:57:42
-144,2025-01-23 23:58:59
-145,2025-01-23 23:55:52
-146,2025-01-23 23:07:02
-147,2025-01-23 14:14:30
-148,2025-01-23 23:59:58
-149,2025-01-23 15:44:33
-150,2025-01-23 11:14:24
-151,2025-01-23 23:46:34
-152,2025-01-23 23:45:57
-153,2025-01-23 06:43:13
-154,2025-01-23 23:07:24
-155,2025-01-23 19:01:08
-157,2025-01-23 15:20:41
-158,2025-01-23 23:58:08
-159,2025-01-23 12:42:58
-160,2025-01-23 19:22:51
-161,2025-01-23 23:59:42
-162,2025-01-23 23:56:54
-163,2025-01-23 23:59:24
-164,2025-01-23 23:59:57
-165,2025-01-23 15:25:03
-166,2025-01-23 23:53:48
-167,2025-01-23 15:42:28
-168,2025-01-23 22:01:47
-169,2025-01-23 14:10:25
-170,2025-01-23 23:58:45
-171,2025-01-23 14:41:20
-173,2025-01-23 18:29:49
-174,2025-01-23 17:52:37
-175,2025-01-23 19:30:40
-177,2025-01-23 19:13:57
-178,2025-01-23 09:29:44
-179,2025-01-23 19:22:14
-180,2025-01-23 09:42:14
-181,2025-01-23 23:20:28
-182,2025-01-23 15:01:12
-183,2025-01-23 09:39:38
-185,2025-01-23 20:58:36
-186,2025-01-23 23:57:17
-188,2025-01-23 18:07:10
-189,2025-01-23 23:06:50
-190,2025-01-23 10:52:31
-191,2025-01-23 12:28:45
-192,2025-01-23 06:18:15
-193,2025-01-23 16:33:44
-194,2025-01-23 22:48:51
-195,2025-01-23 16:41:05
-196,2025-01-23 23:38:30
-197,2025-01-23 17:11:11
-200,2025-01-23 21:12:34
-201,2025-01-23 07:16:19
-202,2025-01-23 21:01:03
-203,2025-01-23 17:37:54
-205,2025-01-23 12:00:25
-207,2025-01-23 21:06:16
-208,2025-01-23 21:58:38
-209,2025-01-23 23:55:16
-210,2025-01-23 18:03:21
-211,2025-01-23 23:58:03
-212,2025-01-23 13:56:52
-213,2025-01-23 21:28:18
-215,2025-01-23 23:29:20
-216,2025-01-23 22:26:20
-217,2025-01-23 23:30:16
-218,2025-01-23 20:06:26
-219,2025-01-23 21:22:12
-220,2025-01-23 14:39:44
-222,2025-01-23 18:22:16
-223,2025-01-23 21:08:54
-224,2025-01-23 23:55:41
-225,2025-01-23 19:55:26
-226,2025-01-23 22:16:58
-227,2025-01-23 17:19:07
-228,2025-01-23 17:40:46
-229,2025-01-23 23:57:17
-230,2025-01-23 23:58:23
-231,2025-01-23 23:53:53
-232,2025-01-23 23:58:23
-233,2025-01-23 23:55:18
-234,2025-01-23 23:59:15
-235,2025-01-23 19:13:03
-236,2025-01-23 23:58:45
-237,2025-01-23 23:59:26
-238,2025-01-23 23:59:43
-239,2025-01-23 23:57:21
-240,2025-01-23 12:09:54
-241,2025-01-23 20:15:31
-242,2025-01-23 16:25:04
-243,2025-01-23 19:42:56
-244,2025-01-23 23:16:10
-246,2025-01-23 23:57:13
-247,2025-01-23 21:42:34
-248,2025-01-23 17:21:02
-249,2025-01-23 23:59:59
-250,2025-01-23 16:41:48
-252,2025-01-23 07:44:50
-254,2025-01-23 18:49:20
-255,2025-01-23 23:54:38
-256,2025-01-23 21:08:52
-257,2025-01-23 23:17:28
-258,2025-01-23 11:01:08
-259,2025-01-23 20:25:36
-260,2025-01-23 23:05:25
-261,2025-01-23 23:55:57
-262,2025-01-23 23:45:22
-263,2025-01-23 23:55:43
-264,2025-01-23 23:46:33
-265,2025-01-23 23:56:15
+vehicle_id,ultimo_timestamp,ciudad,zona,zona_servicio
+3,2025-01-13 16:43:43,Bronx,Allerton/Pelham Gardens,Boro Zone
+4,2025-01-13 23:52:15,Manhattan,Alphabet City,Yellow Zone
+6,2025-01-13 14:39:44,Staten Island,Arrochar/Fort Wadsworth,Boro Zone
+7,2025-01-13 23:51:42,Queens,Astoria,Boro Zone
+8,2025-01-13 18:24:06,Queens,Astoria Park,Boro Zone
+9,2025-01-13 12:17:09,Queens,Auburndale,Boro Zone
+10,2025-01-13 23:10:31,Queens,Baisley Park,Boro Zone
+11,2025-01-13 13:02:31,Brooklyn,Bath Beach,Boro Zone
+12,2025-01-13 18:16:10,Manhattan,Battery Park,Yellow Zone
+13,2025-01-13 23:41:02,Manhattan,Battery Park City,Yellow Zone
+14,2025-01-13 21:22:02,Brooklyn,Bay Ridge,Boro Zone
+15,2025-01-13 19:37:40,Queens,Bay Terrace/Fort Totten,Boro Zone
+16,2025-01-13 15:34:45,Queens,Bayside,Boro Zone
+17,2025-01-13 23:27:05,Brooklyn,Bedford,Boro Zone
+18,2025-01-13 22:05:09,Bronx,Bedford Park,Boro Zone
+19,2025-01-13 08:57:36,Queens,Bellerose,Boro Zone
+20,2025-01-13 16:27:27,Bronx,Belmont,Boro Zone
+21,2025-01-13 12:13:21,Brooklyn,Bensonhurst East,Boro Zone
+22,2025-01-13 17:43:03,Brooklyn,Bensonhurst West,Boro Zone
+24,2025-01-13 23:33:32,Manhattan,Bloomingdale,Yellow Zone
+25,2025-01-13 22:56:26,Brooklyn,Boerum Hill,Boro Zone
+26,2025-01-13 16:12:01,Brooklyn,Borough Park,Boro Zone
+28,2025-01-13 22:02:39,Queens,Briarwood/Jamaica Hills,Boro Zone
+29,2025-01-13 18:03:41,Brooklyn,Brighton Beach,Boro Zone
+32,2025-01-13 09:19:07,Bronx,Bronxdale,Boro Zone
+33,2025-01-13 21:33:39,Brooklyn,Brooklyn Heights,Boro Zone
+34,2025-01-13 11:42:49,Brooklyn,Brooklyn Navy Yard,Boro Zone
+35,2025-01-13 20:36:09,Brooklyn,Brownsville,Boro Zone
+36,2025-01-13 17:44:08,Brooklyn,Bushwick North,Boro Zone
+37,2025-01-13 14:58:29,Brooklyn,Bushwick South,Boro Zone
+38,2025-01-13 20:07:07,Queens,Cambria Heights,Boro Zone
+39,2025-01-13 20:15:27,Brooklyn,Canarsie,Boro Zone
+40,2025-01-13 18:29:46,Brooklyn,Carroll Gardens,Boro Zone
+41,2025-01-13 23:43:18,Manhattan,Central Harlem,Boro Zone
+42,2025-01-13 21:01:41,Manhattan,Central Harlem North,Boro Zone
+43,2025-01-13 23:51:26,Manhattan,Central Park,Yellow Zone
+45,2025-01-13 23:24:22,Manhattan,Chinatown,Yellow Zone
+47,2025-01-13 15:55:27,Bronx,Claremont/Bathgate,Boro Zone
+48,2025-01-13 23:59:49,Manhattan,Clinton East,Yellow Zone
+49,2025-01-13 20:01:54,Brooklyn,Clinton Hill,Boro Zone
+50,2025-01-13 23:56:35,Manhattan,Clinton West,Yellow Zone
+51,2025-01-13 10:55:06,Bronx,Co-Op City,Boro Zone
+52,2025-01-13 18:22:42,Brooklyn,Cobble Hill,Boro Zone
+53,2025-01-13 21:29:19,Queens,College Point,Boro Zone
+54,2025-01-13 11:52:02,Brooklyn,Columbia Street,Boro Zone
+55,2025-01-13 22:53:53,Brooklyn,Coney Island,Boro Zone
+56,2025-01-13 23:19:35,Queens,Corona,Boro Zone
+60,2025-01-13 08:47:23,Bronx,Crotona Park East,Boro Zone
+61,2025-01-13 17:07:14,Brooklyn,Crown Heights North,Boro Zone
+62,2025-01-13 13:30:57,Brooklyn,Crown Heights South,Boro Zone
+63,2025-01-13 17:00:48,Brooklyn,Cypress Hills,Boro Zone
+64,2025-01-13 07:29:35,Queens,Douglaston,Boro Zone
+65,2025-01-13 22:42:45,Brooklyn,Downtown Brooklyn/MetroTech,Boro Zone
+66,2025-01-13 21:07:13,Brooklyn,DUMBO/Vinegar Hill,Boro Zone
+67,2025-01-13 15:23:42,Brooklyn,Dyker Heights,Boro Zone
+68,2025-01-13 23:59:23,Manhattan,East Chelsea,Yellow Zone
+69,2025-01-13 21:44:36,Bronx,East Concourse/Concourse Village,Boro Zone
+70,2025-01-13 23:57:42,Queens,East Elmhurst,Boro Zone
+71,2025-01-13 17:08:06,Brooklyn,East Flatbush/Farragut,Boro Zone
+72,2025-01-13 20:29:43,Brooklyn,East Flatbush/Remsen Village,Boro Zone
+73,2025-01-13 05:55:29,Queens,East Flushing,Boro Zone
+74,2025-01-13 23:26:49,Manhattan,East Harlem North,Boro Zone
+75,2025-01-13 23:45:18,Manhattan,East Harlem South,Boro Zone
+76,2025-01-13 20:38:16,Brooklyn,East New York,Boro Zone
+77,2025-01-13 15:41:19,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone
+78,2025-01-13 20:08:55,Bronx,East Tremont,Boro Zone
+79,2025-01-13 23:57:49,Manhattan,East Village,Yellow Zone
+80,2025-01-13 15:48:15,Brooklyn,East Williamsburg,Boro Zone
+81,2025-01-13 16:25:51,Bronx,Eastchester,Boro Zone
+82,2025-01-13 16:19:31,Queens,Elmhurst,Boro Zone
+83,2025-01-13 19:07:22,Queens,Elmhurst/Maspeth,Boro Zone
+85,2025-01-13 16:21:43,Brooklyn,Erasmus,Boro Zone
+86,2025-01-13 20:09:13,Queens,Far Rockaway,Boro Zone
+87,2025-01-13 23:47:07,Manhattan,Financial District North,Yellow Zone
+88,2025-01-13 23:00:58,Manhattan,Financial District South,Yellow Zone
+89,2025-01-13 17:21:24,Brooklyn,Flatbush/Ditmas Park,Boro Zone
+90,2025-01-13 23:58:38,Manhattan,Flatiron,Yellow Zone
+91,2025-01-13 17:19:48,Brooklyn,Flatlands,Boro Zone
+92,2025-01-13 14:38:11,Queens,Flushing,Boro Zone
+93,2025-01-13 23:00:33,Queens,Flushing Meadows-Corona Park,Boro Zone
+94,2025-01-13 09:27:49,Bronx,Fordham South,Boro Zone
+95,2025-01-13 20:22:41,Queens,Forest Hills,Boro Zone
+96,2025-01-13 19:47:50,Queens,Forest Park/Highland Park,Boro Zone
+97,2025-01-13 22:54:03,Brooklyn,Fort Greene,Boro Zone
+98,2025-01-13 12:34:20,Queens,Fresh Meadows,Boro Zone
+100,2025-01-13 23:59:54,Manhattan,Garment District,Yellow Zone
+101,2025-01-13 08:57:34,Queens,Glen Oaks,Boro Zone
+102,2025-01-13 13:40:20,Queens,Glendale,Boro Zone
+106,2025-01-13 17:57:01,Brooklyn,Gowanus,Boro Zone
+107,2025-01-13 23:56:05,Manhattan,Gramercy,Yellow Zone
+108,2025-01-13 18:38:40,Brooklyn,Gravesend,Boro Zone
+112,2025-01-13 18:05:00,Brooklyn,Greenpoint,Boro Zone
+113,2025-01-13 23:58:19,Manhattan,Greenwich Village North,Yellow Zone
+114,2025-01-13 23:59:30,Manhattan,Greenwich Village South,Yellow Zone
+116,2025-01-13 23:59:07,Manhattan,Hamilton Heights,Boro Zone
+117,2025-01-13 20:20:47,Queens,Hammels/Arverne,Boro Zone
+119,2025-01-13 22:40:24,Bronx,Highbridge,Boro Zone
+121,2025-01-13 15:57:29,Queens,Hillcrest/Pomonok,Boro Zone
+122,2025-01-13 12:49:52,Queens,Hollis,Boro Zone
+123,2025-01-13 16:11:56,Brooklyn,Homecrest,Boro Zone
+124,2025-01-13 19:36:59,Queens,Howard Beach,Boro Zone
+125,2025-01-13 23:37:05,Manhattan,Hudson Sq,Yellow Zone
+126,2025-01-13 19:48:21,Bronx,Hunts Point,Boro Zone
+127,2025-01-13 18:38:38,Manhattan,Inwood,Boro Zone
+128,2025-01-13 15:11:10,Manhattan,Inwood Hill Park,Boro Zone
+129,2025-01-13 23:39:29,Queens,Jackson Heights,Boro Zone
+130,2025-01-13 20:26:21,Queens,Jamaica,Boro Zone
+131,2025-01-13 17:43:12,Queens,Jamaica Estates,Boro Zone
+132,2025-01-13 23:59:42,Queens,JFK Airport,Airports
+133,2025-01-13 14:37:04,Brooklyn,Kensington,Boro Zone
+134,2025-01-13 20:25:33,Queens,Kew Gardens,Boro Zone
+135,2025-01-13 13:44:37,Queens,Kew Gardens Hills,Boro Zone
+136,2025-01-13 16:25:08,Bronx,Kingsbridge Heights,Boro Zone
+137,2025-01-13 23:59:38,Manhattan,Kips Bay,Yellow Zone
+138,2025-01-13 23:59:38,Queens,LaGuardia Airport,Airports
+139,2025-01-13 16:19:20,Queens,Laurelton,Boro Zone
+140,2025-01-13 23:57:57,Manhattan,Lenox Hill East,Yellow Zone
+141,2025-01-13 23:55:46,Manhattan,Lenox Hill West,Yellow Zone
+142,2025-01-13 23:57:39,Manhattan,Lincoln Square East,Yellow Zone
+143,2025-01-13 23:49:35,Manhattan,Lincoln Square West,Yellow Zone
+144,2025-01-13 23:50:41,Manhattan,Little Italy/NoLiTa,Yellow Zone
+145,2025-01-13 23:40:11,Queens,Long Island City/Hunters Point,Boro Zone
+146,2025-01-13 21:03:42,Queens,Long Island City/Queens Plaza,Boro Zone
+147,2025-01-13 13:08:45,Bronx,Longwood,Boro Zone
+148,2025-01-13 23:55:53,Manhattan,Lower East Side,Yellow Zone
+149,2025-01-13 15:33:31,Brooklyn,Madison,Boro Zone
+150,2025-01-13 16:55:08,Brooklyn,Manhattan Beach,Boro Zone
+151,2025-01-13 23:39:42,Manhattan,Manhattan Valley,Yellow Zone
+152,2025-01-13 22:03:02,Manhattan,Manhattanville,Boro Zone
+153,2025-01-13 13:03:28,Manhattan,Marble Hill,Boro Zone
+155,2025-01-13 22:19:05,Brooklyn,Marine Park/Mill Basin,Boro Zone
+157,2025-01-13 21:20:38,Queens,Maspeth,Boro Zone
+158,2025-01-13 23:55:22,Manhattan,Meatpacking/West Village West,Yellow Zone
+159,2025-01-13 17:49:43,Bronx,Melrose South,Boro Zone
+160,2025-01-13 08:12:33,Queens,Middle Village,Boro Zone
+161,2025-01-13 23:59:50,Manhattan,Midtown Center,Yellow Zone
+162,2025-01-13 23:58:50,Manhattan,Midtown East,Yellow Zone
+163,2025-01-13 23:57:38,Manhattan,Midtown North,Yellow Zone
+164,2025-01-13 23:58:13,Manhattan,Midtown South,Yellow Zone
+165,2025-01-13 18:55:30,Brooklyn,Midwood,Boro Zone
+166,2025-01-13 23:59:48,Manhattan,Morningside Heights,Boro Zone
+167,2025-01-13 15:13:04,Bronx,Morrisania/Melrose,Boro Zone
+168,2025-01-13 23:59:21,Bronx,Mott Haven/Port Morris,Boro Zone
+169,2025-01-13 17:42:47,Bronx,Mount Hope,Boro Zone
+170,2025-01-13 23:59:40,Manhattan,Murray Hill,Yellow Zone
+173,2025-01-13 14:37:11,Queens,North Corona,Boro Zone
+174,2025-01-13 12:10:56,Bronx,Norwood,Boro Zone
+175,2025-01-13 18:15:37,Queens,Oakland Gardens,Boro Zone
+177,2025-01-13 14:53:41,Brooklyn,Ocean Hill,Boro Zone
+178,2025-01-13 10:33:33,Brooklyn,Ocean Parkway South,Boro Zone
+179,2025-01-13 16:40:34,Queens,Old Astoria,Boro Zone
+180,2025-01-13 15:43:53,Queens,Ozone Park,Boro Zone
+181,2025-01-13 23:03:52,Brooklyn,Park Slope,Boro Zone
+182,2025-01-13 12:18:38,Bronx,Parkchester,Boro Zone
+183,2025-01-13 06:52:26,Bronx,Pelham Bay,Boro Zone
+185,2025-01-13 17:39:16,Bronx,Pelham Parkway,Boro Zone
+186,2025-01-13 23:59:03,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+188,2025-01-13 20:03:35,Brooklyn,Prospect-Lefferts Gardens,Boro Zone
+189,2025-01-13 14:05:09,Brooklyn,Prospect Heights,Boro Zone
+191,2025-01-13 16:04:08,Queens,Queens Village,Boro Zone
+193,2025-01-13 19:14:13,Queens,Queensbridge/Ravenswood,Boro Zone
+194,2025-01-13 09:13:49,Manhattan,Randalls Island,Yellow Zone
+195,2025-01-13 11:03:53,Brooklyn,Red Hook,Boro Zone
+196,2025-01-13 20:53:16,Queens,Rego Park,Boro Zone
+197,2025-01-13 23:41:29,Queens,Richmond Hill,Boro Zone
+198,2025-01-13 12:27:42,Queens,Ridgewood,Boro Zone
+200,2025-01-13 13:13:36,Bronx,Riverdale/North Riverdale/Fieldston,Boro Zone
+201,2025-01-13 14:16:20,Queens,Rockaway Park,Boro Zone
+202,2025-01-13 18:36:53,Manhattan,Roosevelt Island,Boro Zone
+203,2025-01-13 20:54:20,Queens,Rosedale,Boro Zone
+205,2025-01-13 23:19:01,Queens,Saint Albans,Boro Zone
+207,2025-01-13 17:01:19,Queens,Saint Michaels Cemetery/Woodside,Boro Zone
+208,2025-01-13 18:10:16,Bronx,Schuylerville/Edgewater Park,Boro Zone
+209,2025-01-13 23:39:44,Manhattan,Seaport,Yellow Zone
+210,2025-01-13 18:34:36,Brooklyn,Sheepshead Bay,Boro Zone
+211,2025-01-13 23:50:47,Manhattan,SoHo,Yellow Zone
+212,2025-01-13 10:10:56,Bronx,Soundview/Bruckner,Boro Zone
+213,2025-01-13 14:28:00,Bronx,Soundview/Castle Hill,Boro Zone
+215,2025-01-13 19:36:39,Queens,South Jamaica,Boro Zone
+216,2025-01-13 23:44:21,Queens,South Ozone Park,Boro Zone
+217,2025-01-13 21:11:06,Brooklyn,South Williamsburg,Boro Zone
+218,2025-01-13 20:20:43,Queens,Springfield Gardens North,Boro Zone
+219,2025-01-13 22:40:30,Queens,Springfield Gardens South,Boro Zone
+220,2025-01-13 19:23:27,Bronx,Spuyten Duyvil/Kingsbridge,Boro Zone
+222,2025-01-13 18:00:00,Brooklyn,Starrett City,Boro Zone
+223,2025-01-13 21:40:52,Queens,Steinway,Boro Zone
+224,2025-01-13 22:27:39,Manhattan,Stuy Town/Peter Cooper Village,Yellow Zone
+225,2025-01-13 23:24:11,Brooklyn,Stuyvesant Heights,Boro Zone
+226,2025-01-13 23:44:39,Queens,Sunnyside,Boro Zone
+227,2025-01-13 16:32:56,Brooklyn,Sunset Park East,Boro Zone
+228,2025-01-13 16:58:43,Brooklyn,Sunset Park West,Boro Zone
+229,2025-01-13 23:53:40,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone
+230,2025-01-13 23:59:41,Manhattan,Times Sq/Theatre District,Yellow Zone
+231,2025-01-13 23:57:09,Manhattan,TriBeCa/Civic Center,Yellow Zone
+232,2025-01-13 23:16:29,Manhattan,Two Bridges/Seward Park,Yellow Zone
+233,2025-01-13 23:58:13,Manhattan,UN/Turtle Bay South,Yellow Zone
+234,2025-01-13 23:59:41,Manhattan,Union Sq,Yellow Zone
+235,2025-01-13 14:46:59,Bronx,University Heights/Morris Heights,Boro Zone
+236,2025-01-13 23:55:54,Manhattan,Upper East Side North,Yellow Zone
+237,2025-01-13 23:57:37,Manhattan,Upper East Side South,Yellow Zone
+238,2025-01-13 23:53:52,Manhattan,Upper West Side North,Yellow Zone
+239,2025-01-13 23:54:31,Manhattan,Upper West Side South,Yellow Zone
+241,2025-01-13 22:58:41,Bronx,Van Cortlandt Village,Boro Zone
+242,2025-01-13 19:27:33,Bronx,Van Nest/Morris Park,Boro Zone
+243,2025-01-13 13:34:09,Manhattan,Washington Heights North,Boro Zone
+244,2025-01-13 23:56:13,Manhattan,Washington Heights South,Boro Zone
+246,2025-01-13 23:59:26,Manhattan,West Chelsea/Hudson Yards,Yellow Zone
+247,2025-01-13 20:55:15,Bronx,West Concourse,Boro Zone
+248,2025-01-13 15:32:48,Bronx,West Farms/Bronx River,Boro Zone
+249,2025-01-13 23:59:48,Manhattan,West Village,Yellow Zone
+250,2025-01-13 18:15:55,Bronx,Westchester Village/Unionport,Boro Zone
+252,2025-01-13 12:32:56,Queens,Whitestone,Boro Zone
+254,2025-01-13 15:41:20,Bronx,Williamsbridge/Olinville,Boro Zone
+255,2025-01-13 22:18:11,Brooklyn,Williamsburg (North Side),Boro Zone
+256,2025-01-13 14:55:15,Brooklyn,Williamsburg (South Side),Boro Zone
+257,2025-01-13 07:40:57,Brooklyn,Windsor Terrace,Boro Zone
+258,2025-01-13 16:57:07,Queens,Woodhaven,Boro Zone
+259,2025-01-13 11:38:21,Bronx,Woodlawn/Wakefield,Boro Zone
+260,2025-01-13 19:23:35,Queens,Woodside,Boro Zone
+261,2025-01-13 23:46:26,Manhattan,World Trade Center,Yellow Zone
+262,2025-01-13 23:50:43,Manhattan,Yorkville East,Yellow Zone
+263,2025-01-13 23:59:28,Manhattan,Yorkville West,Yellow Zone
+264,2025-01-13 23:30:50,Unknown,,
+265,2025-01-13 23:32:58,,Outside of NYC,

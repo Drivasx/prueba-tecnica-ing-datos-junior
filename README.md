@@ -43,13 +43,15 @@ NOTA: El proyecto fue desarrollado en un sistema opertivo Linux. Si se quiere ej
 
 Creación y activación del entorno virtual
 
+Linux
 ```bash
-  
   python -m venv venv
   source venv/bin/activate
+```
 
-  # En Windows con git bash
-
+Windows con Git Bash
+```bash
+  python -m venv venv
   source venv/Scripts/activate
 ```
 
