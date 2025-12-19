@@ -17,7 +17,8 @@ prueba-tecnica-ing-datos-junior
 
 ├── data/
 │   ├── raw/
-|   |   └── yellow_tripdata_2025-01.parquet           # Datos de entrada
+|   |   ├── yellow_tripdata_2025-01.parquet           # Datos de entrada
+|   |   └── taxi_zone_lookup.csv
 │   └── processed/                                    # Datos procesados
 ├── src/
 │   ├── clean.py
